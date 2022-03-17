@@ -5,4 +5,5 @@
 - 👨‍💻 Procurando minha primeira oportunidade para entrar no mercado para aprender cada vez mais
 - 🤔 A melhor ajuda é que você possa compartilhar um pouco do seu conhecimento comigo
 - 💬 Aberto a conversas de todos os aspectos
+- 💾 Último projeto realizado: https://github.com/luisgbb/inovaLab_LIV.git
 - 📫 luisgbragabernardes@gmail.com
