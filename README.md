@@ -12,5 +12,6 @@
 <div>
   <a href="https://github.com/luisgbb">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisgbb&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
-  
+</div> 
+
+![Avatar](https://user-images.githubusercontent.com/85948218/159097294-8b2037ae-cf66-47e1-8e3d-8f42b05a8365.png)
