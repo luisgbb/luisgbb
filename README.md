@@ -1,4 +1,4 @@
-### Olá, tudo bem?👋🏽
+ ### Olá, tudo bem?👋🏽 !
 
 - 🔭 Atualmente trabalhando no setor de vendas e cursando análise e desenvolvimentos de sistemas
 - 🌱 Estudando C#
@@ -13,5 +13,7 @@
   <a href="https://github.com/luisgbb">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisgbb&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div> 
+  
+![LuisGustavo](https://user-images.githubusercontent.com/85948218/159098609-fa2e8bea-8c78-48d0-b0b3-cb0fef3a4435.png)
 
-![Avatar](https://user-images.githubusercontent.com/85948218/159097294-8b2037ae-cf66-47e1-8e3d-8f42b05a8365.png)
+
